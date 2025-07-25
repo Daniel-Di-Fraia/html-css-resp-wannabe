@@ -127,3 +127,19 @@ img {
 /************************************************
     SOLUZIONE RESPONSIVE
  ************************************************/
+
+
+ /* tablet version */
+ @media screen and (max-width: 768px) {
+    
+    body {
+        width: 150%;
+    }
+
+    .card p {
+        padding: 0 67px;
+    }
+
+
+
+    }
