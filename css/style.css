@@ -166,12 +166,14 @@ img {
         align-items: center;
     }
 
-    .steps .col {
+    .steps .col,
+    .lessons .col,
+    .why-us .col-left {
         width: 100%;
-        padding: 25px 50px;
+        padding: 25px 30px;
     }
 
-    .lessons .col {
+    /* .lessons .col {
         width: 100%;
         padding: 25px 50px;
     }
@@ -179,7 +181,7 @@ img {
     .why-us .col-left {
         width: 100%;
         padding: 25px 50px;
-}
+} */
 
     .why-us .col-right {
         width: 100%;
